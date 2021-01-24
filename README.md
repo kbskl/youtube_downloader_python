@@ -17,6 +17,7 @@ pip install pyqt5
 
 Install the required packages, download the repository and run it :)
 
+![User interface](./ui1.png)
 
 ## License
 
